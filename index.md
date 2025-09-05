@@ -1,29 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Anshuman's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I used the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for my website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever I commited to this repository, GitHub Pages ran [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content my Markdown files.
 
-### Markdown
+### Markdowns?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Heres the code block
 
-# Header 1
-## Header 2
-### Header 3
+# Anshuman's To-Do list.
 
-- Bulleted
-- List
+- CS19300 HW 0 and 1
+- TDM HW
+- Math HW for the next 2 weeks
+- CS180 Revision and next course test out study
 
-1. Numbered
-2. List
+# What's actually done
+1. TDM Project for this week
+2. Math HW for this week
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link to my github](github.io/ParFaNox)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
